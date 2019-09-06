@@ -1,8 +1,8 @@
 # GEOG594-Cordova
 Web Assignment # 1
 
-First Name: Eduardo
-Last Name: Cordova
+<h1>First Name:</h1> <h2>Eduardo</h2>
+<h1>Last Name:</h1> <h2>Cordova</h2>
 
 Class BSA/GEOG594 Website [HERE](https://map.sdsu.edu/bigdata/index.html)
 
